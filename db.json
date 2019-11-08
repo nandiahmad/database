@@ -2,20 +2,20 @@
   "Food": [
     {
       "id": 1,
-      "name": "Beef Teriyaki"
-      "price": "39000"
+      "name": "Beef Teriyaki",
+      "price": "39000",
       "image": "https://www.hokben.co.id/assets/uploads/menu/069e1-Beef-Teriyaki.jpg"
     },
     {
       "id": 1,
-      "name": "Beef Yakiniku"
-      "price": "39000"
+      "name": "Beef Yakiniku",
+      "price": "39000",
       "image": "https://www.hokben.co.id/assets/uploads/menu/265cb-Beef-Yakiniku.jpg"
     },
     {
       "id": 1,
-      "name": "Chicken Teriyaki"
-      "price": "30000"
+      "name": "Chicken Teriyaki",
+      "price": "30000",
       "image": "https://www.hokben.co.id/assets/uploads/menu/d3765-Chicken-Teriyaki.jpg"
     }
   ],
