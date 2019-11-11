@@ -7,17 +7,65 @@
       "image": "https://www.hokben.co.id/assets/uploads/menu/069e1-Beef-Teriyaki.jpg"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Beef Yakiniku",
       "price": "39000",
       "image": "https://www.hokben.co.id/assets/uploads/menu/265cb-Beef-Yakiniku.jpg"
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "Chicken Teriyaki",
       "price": "30000",
       "image": "https://www.hokben.co.id/assets/uploads/menu/d3765-Chicken-Teriyaki.jpg"
-    }
+    },
+    {
+      "id": 4,
+      "name": "Chicken Yakiniku",
+      "price": "29000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/d2e22-Chicken-Yakiniku.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hot Chicken Steak",
+      "price": "36000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/2f2a5-HOT-CHICKEN-STEAK.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chicken Steak Original",
+      "price": "34000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/6fd38-CHICKEN-STEAK-ORIGINAL.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Hot Spicy Beef Teriyaki",
+      "price": "44000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/156e4-spicy-BT.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Hot Spicy Chicken Teriyaki",
+      "price": "35000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/3334a-spicy-CT.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Chicken Karaage",
+      "price": "32000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/48c81-Crispy-Karaage.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Ebi Furai",
+      "price": "37000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/77458-Ebi-Furai.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Egg Chicken Roll",
+      "price": "30000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/434a4-Egg-Chicken-Roll.jpg"
+    },
   ],
   "comment": [
     {
