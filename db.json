@@ -65,6 +65,210 @@
       "name": "Egg Chicken Roll",
       "price": "30000",
       "image": "https://www.hokben.co.id/assets/uploads/menu/434a4-Egg-Chicken-Roll.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Ekkado",
+      "price": "38000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/376e7-Ekkado.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Kaniroll",
+      "price": "30000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/54af2-Kaniroll.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Katsu",
+      "price": "30000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/b0416-Chicken-Katsu.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Tori Ball",
+      "price": "30000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/a1c9d-Spicy-Chicken.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Shrimp Roll",
+      "price": "29000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/7616e-Shrimp-Roll.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Tori no Teba",
+      "price": "27000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/48a99-Tori-no-Teba.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Spicy Sakana Katsu",
+      "price": "31000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/c0f66-menu-satuan.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Tori Fingers 3 pcs",
+      "price": "18000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/37361-TF-3-pcs.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Tori Fingers 5 pcs",
+      "price": "28000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/7ba79-TF-5-pcs.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Tori Fingers 10 pcs",
+      "price": "50000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/567d5-TF-bucket.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Sukiyaki",
+      "price": "56000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/8b3df-Sukiyaki.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Chicken Tofu 2 pcs",
+      "price": "20000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/bdb46-Chicken-Tofu-(-2-pcs-).jpg"
+    },
+    {
+      "id": 24,
+      "name": "Chicken Tofu 1 pcs",
+      "price": "11000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/f3ce5-Chicken-Tofu-(-1-pcs-).jpg"
+    },
+    {
+      "id": 25,
+      "name": "Shrimp Ball",
+      "price": "23000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/9d9fb-Shrimp-Ball.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Shrimp Dumpling",
+      "price": "19000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/7377e-Shrimp-Dumpling.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Shirataki Soup",
+      "price": "16000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/44684-shirataki-soup.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Clear Soup",
+      "price": "9000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/d2039-clear-soup.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Es Ogura",
+      "price": "12000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/41119-Es-Ogura.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Es Sarang Burung",
+      "price": "18000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/0aa55-Es-Sarang-Burung.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Chocolate Pudding",
+      "price": "20000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/3348f-Chocolate-Pudding.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Soft Caramel Pudding",
+      "price": "18000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/690be-Soft-Caramel-Pudding.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Soft Pudding Mango",
+      "price": "18000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/4e7d7-Mango.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Soft Pudding Taro",
+      "price": "18000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/13043-Taro.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Jus Melon",
+      "price": "18000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/b390c-Jus-Melon.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Jus Jeruk",
+      "price": "18000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/6c6c5-Jus-Jeruk.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Cold Ocha",
+      "price": "7000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/38883-Ocha.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Coca Cola Kaleng",
+      "price": "11000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/d013c-Coca-Cola-Kaleng.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Aqua Pet",
+      "price": "9000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/8aac0-Aqua-Pet.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Lemon Tea",
+      "price": "11000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/5451e-Lemon-Tea.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Milo",
+      "price": "10000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/978c5-Milo.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Ocha Lychee Tea",
+      "price": "18000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/ea61b-Ocha.jpg"
+    },
+    {
+      "id": 43,
+      "name": "AKA Ocha",
+      "price": "14000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/8ac0d-akaocha.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Kiroi Ocha",
+      "price": "14000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/5b5de-kiroiocha.jpg"
+    },
+    {
+      "id": 45,
+      "name": "AOI Ocha",
+      "price": "14000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/6fe52-aoi-ocha(1).jpg"
     }
   ],
   "comment": [
