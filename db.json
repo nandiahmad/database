@@ -169,17 +169,13 @@
       "image": "https://www.hokben.co.id/assets/uploads/menu/d2039-clear-soup.jpg"
     }
   ],
-  "comment": [
+  "Desert": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Clear Soup",
+      "price": "9000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/d2039-clear-soup.jpg"
     },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
   ],
   "profile": {
     "name": "nandiahmad"
