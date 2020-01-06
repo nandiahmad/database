@@ -177,7 +177,10 @@
       "image": "https://www.hokben.co.id/assets/uploads/menu/d2039-clear-soup.jpg"
     }
   ],
-  "profile": {
-    "name": "nandiahmad"
-  }
+  "User": [
+    {
+      "username": "nandiahmad1@gmail.com",
+      "password": "password"
+    }
+  ]
 }
