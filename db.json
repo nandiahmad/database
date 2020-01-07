@@ -179,18 +179,22 @@
   ],
   "User": [
     {
+      "id": 1,
       "username": "nandiahmad1@gmail.com",
       "password": "password"
     },
     {
+      "id": 2,
       "username": "nandiahmad2@gmail.com",
       "password": "password"
     },
     {
+      "id": 3,
       "username": "nandiahmad3@gmail.com",
       "password": "password"
     },
     {
+      "id": 4,
       "username": "nandiahmad4@gmail.com",
       "password": "password"
     }
