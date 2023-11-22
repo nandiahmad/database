@@ -1,736 +1,202 @@
 {
-  "hero": [
-    {
-      "heroId": "1",
-      "heroName": "Miya",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Miya.png"
-    },
-    {
-      "heroId": "2",
-      "heroName": "Balmond",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Balmond.png"
-    },
-    {
-      "heroId": "3",
-      "heroName": "Saber",
-      "heroRole": "Assassin",
-      "heroImage": "assets/images/Saber.png"
-    },
-    {
-      "heroId": "4",
-      "heroName": "Alice",
-      "heroRole": "Mage, Tank",
-      "heroImage": "assets/images/Alice.png"
-    },
-    {
-      "heroId": "5",
-      "heroName": "Nana",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Nana.png"
-    },
-    {
-      "heroId": "6",
-      "heroName": "Tigreal",
-      "heroRole": "Tank",
-      "heroImage": "assets/images/Tigreal.png"
-    },
-    {
-      "heroId": "7",
-      "heroName": "Alucard",
-      "heroRole": "Fighter, Assassin",
-      "heroImage": "assets/images/Alucard.png"
-    },
-    {
-      "heroId": "8",
-      "heroName": "Karina",
-      "heroRole": "Assassin",
-      "heroImage": "assets/images/Karina.png"
-    },
-    {
-      "heroId": "9",
-      "heroName": "Akai",
-      "heroRole": "Tank",
-      "heroImage": "assets/images/Akai.png"
-    },
-    {
-      "heroId": "10",
-      "heroName": "Franco",
-      "heroRole": "Tank",
-      "heroImage": "assets/images/Franco.png"
-    },
-    {
-      "heroId": "11",
-      "heroName": "Bane",
-      "heroRole": "Fighter, Mage",
-      "heroImage": "assets/images/Bane.png"
-    },
-    {
-      "heroId": "12",
-      "heroName": "Bruno",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Bruno.png"
-    },
-    {
-      "heroId": "13",
-      "heroName": "Clint",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Clint.png"
-    },
-    {
-      "heroId": "14",
-      "heroName": "Rafaela",
-      "heroRole": "Support",
-      "heroImage": "assets/images/Rafaela.png"
-    },
-    {
-      "heroId": "15",
-      "heroName": "Eudora",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Eudora.png"
-    },
-    {
-      "heroId": "16",
-      "heroName": "Zilong",
-      "heroRole": "Fighter, Assassin",
-      "heroImage": "assets/images/Zilong.png"
-    },
-    {
-      "heroId": "17",
-      "heroName": "Fanny",
-      "heroRole": "Assassin",
-      "heroImage": "assets/images/Fanny.png"
-    },
-    {
-      "heroId": "18",
-      "heroName": "Layla",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Layla.png"
-    },
-    {
-      "heroId": "19",
-      "heroName": "Minotaur",
-      "heroRole": "Tank, Support",
-      "heroImage": "assets/images/Minotaur.png"
-    },
-    {
-      "heroId": "20",
-      "heroName": "Lolita",
-      "heroRole": "Support, Tank",
-      "heroImage": "assets/images/Lolita.png"
-    },
-    {
-      "heroId": "21",
-      "heroName": "Hayabusa",
-      "heroRole": "Assassin",
-      "heroImage": "assets/images/Hayabusa.png"
-    },
-    {
-      "heroId": "22",
-      "heroName": "Freya",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Freya.png"
-    },
-    {
-      "heroId": "23",
-      "heroName": "Gord",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Gord.png"
-    },
-    {
-      "heroId": "24",
-      "heroName": "Natalia",
-      "heroRole": "Assassin",
-      "heroImage": "assets/images/Natalia.png"
-    },
-    {
-      "heroId": "25",
-      "heroName": "Kagura",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Kagura.png"
-    },
-    {
-      "heroId": "26",
-      "heroName": "Chou",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Chou.png"
-    },
-    {
-      "heroId": "27",
-      "heroName": "Sun",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Sun.png"
-    },
-    {
-      "heroId": "28",
-      "heroName": "Alpha",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Alpha.png"
-    },
-    {
-      "heroId": "29",
-      "heroName": "Ruby",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Ruby.png"
-    },
-    {
-      "heroId": "30",
-      "heroName": "Yi Sun-shin",
-      "heroRole": "Assassin, Marksman",
-      "heroImage": "assets/images/Yi_Sun-shin.png"
-    },
-    {
-      "heroId": "31",
-      "heroName": "Moskov",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Moskov.png"
-    },
-    {
-      "heroId": "32",
-      "heroName": "Johnson",
-      "heroRole": "Tank, Support",
-      "heroImage": "assets/images/Johnson.png"
-    },
-    {
-      "heroId": "33",
-      "heroName": "Cyclops",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Cyclops.png"
-    },
-    {
-      "heroId": "34",
-      "heroName": "Estes",
-      "heroRole": "Support",
-      "heroImage": "assets/images/Estes.png"
-    },
-    {
-      "heroId": "35",
-      "heroName": "Hilda",
-      "heroRole": "Fighter, Tank",
-      "heroImage": "assets/images/Hilda.png"
-    },
-    {
-      "heroId": "36",
-      "heroName": "Aurora",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Aurora.png"
-    },
-    {
-      "heroId": "37",
-      "heroName": "Lapu-Lapu",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Lapu-Lapu.png"
-    },
-    {
-      "heroId": "38",
-      "heroName": "Vexana",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Vexana.png"
-    },
-    {
-      "heroId": "39",
-      "heroName": "Roger",
-      "heroRole": "Fighter, Marksman",
-      "heroImage": "assets/images/Roger.png"
-    },
-    {
-      "heroId": "40",
-      "heroName": "Karrie",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Karrie.png"
-    },
-    {
-      "heroId": "41",
-      "heroName": "Gatotkaca",
-      "heroRole": "Tank, Fighter",
-      "heroImage": "assets/images/Gatotkaca.png"
-    },
-    {
-      "heroId": "42",
-      "heroName": "Harley",
-      "heroRole": "Assassin, Mage",
-      "heroImage": "assets/images/Harley.png"
-    },
-    {
-      "heroId": "43",
-      "heroName": "Irithel",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Irithel.png"
-    },
-    {
-      "heroId": "44",
-      "heroName": "Grock",
-      "heroRole": "Tank, Fighter",
-      "heroImage": "assets/images/Grock.png"
-    },
-    {
-      "heroId": "45",
-      "heroName": "Argus",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Argus.png"
-    },
-    {
-      "heroId": "46",
-      "heroName": "Odette",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Odette.png"
-    },
-    {
-      "heroId": "47",
-      "heroName": "Lancelot",
-      "heroRole": "Assassin",
-      "heroImage": "assets/images/Lancelot.png"
-    },
-    {
-      "heroId": "48",
-      "heroName": "Diggie",
-      "heroRole": "Support",
-      "heroImage": "assets/images/Diggie.png"
-    },
-    {
-      "heroId": "49",
-      "heroName": "Hylos",
-      "heroRole": "Tank",
-      "heroImage": "assets/images/Hylos.png"
-    },
-    {
-      "heroId": "50",
-      "heroName": "Zhask",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Zhask.png"
-    },
-    {
-      "heroId": "51",
-      "heroName": "Helcurt",
-      "heroRole": "Assassin",
-      "heroImage": "assets/images/Helcurt.png"
-    },
-    {
-      "heroId": "52",
-      "heroName": "Pharsa",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Parsha.png"
-    },
-    {
-      "heroId": "53",
-      "heroName": "Lesley",
-      "heroRole": "Marksman, Assassin",
-      "heroImage": "assets/images/Lesley.png"
-    },
-    {
-      "heroId": "54",
-      "heroName": "Jawhead",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Jawhead.png"
-    },
-    {
-      "heroId": "55",
-      "heroName": "Angela",
-      "heroRole": "Support",
-      "heroImage": "assets/images/Angela.png"
-    },
-    {
-      "heroId": "56",
-      "heroName": "Gusion",
-      "heroRole": "Assassin",
-      "heroImage": "assets/images/Gusion.png"
-    },
-    {
-      "heroId": "57",
-      "heroName": "Valir",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Valir.png"
-    },
-    {
-      "heroId": "58",
-      "heroName": "Martis",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Martis.png"
-    },
-    {
-      "heroId": "59",
-      "heroName": "Uranus",
-      "heroRole": "Tank",
-      "heroImage": "assets/images/Uranus.png"
-    },
-    {
-      "heroId": "60",
-      "heroName": "Hanabi",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Hanabi.png"
-    },
-    {
-      "heroId": "61",
-      "heroName": "Chang'e",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Chang'e.png"
-    },
-    {
-      "heroId": "62",
-      "heroName": "Kaja",
-      "heroRole": "Support, Fighter",
-      "heroImage": "assets/images/Kaja.png"
-    },
-    {
-      "heroId": "63",
-      "heroName": "Selena",
-      "heroRole": "Assassin, Mage",
-      "heroImage": "assets/images/Selena.png"
-    },
-    {
-      "heroId": "64",
-      "heroName": "Aldous",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Aldous.png"
-    },
-    {
-      "heroId": "65",
-      "heroName": "Claude",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Claude.png"
-    },
-    {
-      "heroId": "66",
-      "heroName": "Vale",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Vale.png"
-    },
-    {
-      "heroId": "67",
-      "heroName": "Leomord",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Leomord.png"
-    },
-    {
-      "heroId": "68",
-      "heroName": "Lunox",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Lunox.png"
-    },
+  "Food": [
     {
-      "heroId": "69",
-      "heroName": "Hanzo",
-      "heroRole": "Assassin",
-      "heroImage": "assets/images/Hanzo.png"
+      "id": 1,
+      "name": "Beef Teriyaki",
+      "price": "39000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/069e1-Beef-Teriyaki.jpg"
     },
     {
-      "heroId": "70",
-      "heroName": "Belerick",
-      "heroRole": "Tank",
-      "heroImage": "assets/images/Belerick.png"
+      "id": 2,
+      "name": "Beef Yakiniku",
+      "price": "39000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/265cb-Beef-Yakiniku.jpg"
     },
     {
-      "heroId": "71",
-      "heroName": "Kimmy",
-      "heroRole": "Marksman, Mage",
-      "heroImage": "assets/images/Kimmy.png"
+      "id": 3,
+      "name": "Chicken Teriyaki",
+      "price": "30000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/d3765-Chicken-Teriyaki.jpg"
     },
     {
-      "heroId": "72",
-      "heroName": "Thamuz",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Thamuz.png"
+      "id": 4,
+      "name": "Chicken Yakiniku",
+      "price": "29000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/d2e22-Chicken-Yakiniku.jpg"
     },
     {
-      "heroId": "73",
-      "heroName": "Harith",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Harith.png"
+      "id": 5,
+      "name": "Hot Chicken Steak",
+      "price": "36000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/2f2a5-HOT-CHICKEN-STEAK.jpg"
     },
     {
-      "heroId": "74",
-      "heroName": "Minsitthar",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Minsitthar.png"
+      "id": 6,
+      "name": "Chicken Steak Original",
+      "price": "34000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/6fd38-CHICKEN-STEAK-ORIGINAL.jpg"
     },
     {
-      "heroId": "75",
-      "heroName": "Kadita",
-      "heroRole": "Mage, Assassin",
-      "heroImage": "assets/images/Kadita.png"
+      "id": 7,
+      "name": "Hot Spicy Beef Teriyaki",
+      "price": "44000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/156e4-spicy-BT.jpg"
     },
     {
-      "heroId": "76",
-      "heroName": "Faramis",
-      "heroRole": "Support, Mage",
-      "heroImage": "assets/images/Faramis.png"
+      "id": 8,
+      "name": "Hot Spicy Chicken Teriyaki",
+      "price": "35000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/3334a-spicy-CT.jpg"
     },
     {
-      "heroId": "77",
-      "heroName": "Badang",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Badang.png"
+      "id": 9,
+      "name": "Chicken Karaage",
+      "price": "32000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/48c81-Crispy-Karaage.jpg"
     },
     {
-      "heroId": "78",
-      "heroName": "Khufra",
-      "heroRole": "Tank",
-      "heroImage": "assets/images/Khufra.png"
+      "id": 10,
+      "name": "Ebi Furai",
+      "price": "37000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/77458-Ebi-Furai.jpg"
     },
     {
-      "heroId": "79",
-      "heroName": "Granger",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Granger.png"
+      "id": 11,
+      "name": "Egg Chicken Roll",
+      "price": "30000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/434a4-Egg-Chicken-Roll.jpg"
     },
     {
-      "heroId": "80",
-      "heroName": "Guinevere",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Guinevere.png"
+      "id": 12,
+      "name": "Ekkado",
+      "price": "38000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/376e7-Ekkado.jpg"
     },
     {
-      "heroId": "81",
-      "heroName": "Esmeralda",
-      "heroRole": "Mage, Tank",
-      "heroImage": "assets/images/Esmeralda.png"
+      "id": 13,
+      "name": "Kaniroll",
+      "price": "30000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/54af2-Kaniroll.jpg"
     },
     {
-      "heroId": "82",
-      "heroName": "Terizla",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Terizla.png"
+      "id": 14,
+      "name": "Chicken Katsu",
+      "price": "30000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/b0416-Chicken-Katsu.jpg"
     },
     {
-      "heroId": "83",
-      "heroName": "X.Borg",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Fighter.png"
+      "id": 15,
+      "name": "Tori Ball",
+      "price": "30000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/a1c9d-Spicy-Chicken.jpg"
     },
     {
-      "heroId": "84",
-      "heroName": "Ling",
-      "heroRole": "Assassin",
-      "heroImage": "assets/images/Ling.png"
+      "id": 16,
+      "name": "Shrimp Roll",
+      "price": "29000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/7616e-Shrimp-Roll.jpg"
     },
     {
-      "heroId": "85",
-      "heroName": "Dyrroth",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Dyrroth.png"
+      "id": 17,
+      "name": "Tori no Teba",
+      "price": "27000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/48a99-Tori-no-Teba.jpg"
     },
     {
-      "heroId": "86",
-      "heroName": "Lylia",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Lylia.png"
+      "id": 18,
+      "name": "Spicy Sakana Katsu",
+      "price": "31000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/c0f66-menu-satuan.jpg"
     },
     {
-      "heroId": "87",
-      "heroName": "Baxia",
-      "heroRole": "Tank",
-      "heroImage": "assets/images/Baxia.png"
+      "id": 19,
+      "name": "Tori Fingers 3 pcs",
+      "price": "18000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/37361-TF-3-pcs.jpg"
     },
     {
-      "heroId": "88",
-      "heroName": "Masha",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Masha.png"
+      "id": 20,
+      "name": "Tori Fingers 5 pcs",
+      "price": "28000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/7ba79-TF-5-pcs.jpg"
     },
     {
-      "heroId": "89",
-      "heroName": "Wanwan",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Wanwan.png"
+      "id": 21,
+      "name": "Tori Fingers 10 pcs",
+      "price": "50000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/567d5-TF-bucket.jpg"
     },
     {
-      "heroId": "90",
-      "heroName": "Silvanna",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Silvanna.png"
+      "id": 22,
+      "name": "Sukiyaki",
+      "price": "56000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/8b3df-Sukiyaki.jpg"
     },
     {
-      "heroId": "91",
-      "heroName": "Carmilla",
-      "heroRole": "Support, Tank",
-      "heroImage": "assets/images/Carmilla.png"
+      "id": 23,
+      "name": "Chicken Tofu 2 pcs",
+      "price": "20000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/bdb46-Chicken-Tofu-(-2-pcs-).jpg"
     },
     {
-      "heroId": "92",
-      "heroName": "Cecilion",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Cecilion.png"
+      "id": 24,
+      "name": "Chicken Tofu 1 pcs",
+      "price": "11000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/f3ce5-Chicken-Tofu-(-1-pcs-).jpg"
     },
     {
-      "heroId": "93",
-      "heroName": "Atlas",
-      "heroRole": "Tank",
-      "heroImage": "assets/images/Atlas.png"
+      "id": 25,
+      "name": "Shrimp Ball",
+      "price": "23000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/9d9fb-Shrimp-Ball.jpg"
     },
     {
-      "heroId": "94",
-      "heroName": "Popol and Kupa",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Popol_and_Kupa.png"
+      "id": 26,
+      "name": "Shrimp Dumpling",
+      "price": "19000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/7377e-Shrimp-Dumpling.jpg"
     },
     {
-      "heroId": "95",
-      "heroName": "Yu Zhong",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Yu_Zhong.png"
+      "id": 27,
+      "name": "Shirataki Soup",
+      "price": "16000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/44684-shirataki-soup.jpg"
     },
     {
-      "heroId": "96",
-      "heroName": "Luo Yi",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Luo_Yi.png"
-    },
-    {
-      "heroId": "97",
-      "heroName": "Benedetta",
-      "heroRole": "Assassin, Fighter",
-      "heroImage": "assets/images/Benedetta.png"
-    },
-    {
-      "heroId": "98",
-      "heroName": "Khaleed",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Khaleed.png"
-    },
-    {
-      "heroId": "99",
-      "heroName": "Barats",
-      "heroRole": "Tank, Fighter",
-      "heroImage": "assets/images/Barats.png"
-    },
-    {
-      "heroId": "100",
-      "heroName": "Brody",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Brody.png"
-    },
-    {
-      "heroId": "101",
-      "heroName": "Yve",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Yve.png"
-    },
-    {
-      "heroId": "102",
-      "heroName": "Mathilda",
-      "heroRole": "Support, Assassin",
-      "heroImage": "assets/images/Mathilda.png"
-    },
-    {
-      "heroId": "103",
-      "heroName": "Paquito",
-      "heroRole": "Fighter, Assassin",
-      "heroImage": "assets/images/Paquito.png"
-    },
-    {
-      "heroId": "104",
-      "heroName": "Gloo",
-      "heroRole": "Tank",
-      "heroImage": "assets/images/Gloo.png"
-    },
-    {
-      "heroId": "105",
-      "heroName": "Beatrix",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Beatrix.png"
-    },
-    {
-      "heroId": "106",
-      "heroName": "Phoveus",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Phoveus.png"
-    },
-    {
-      "heroId": "107",
-      "heroName": "Natan",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Natan.png"
-    },
-    {
-      "heroId": "108",
-      "heroName": "Aulus",
-      "heroRole": "Fighter",
-      "heroImage": "assets/images/Aulus.png"
-    },
-    {
-      "heroId": "109",
-      "heroName": "Aamon",
-      "heroRole": "Assassin",
-      "heroImage": "assets/images/Aamon.png"
-    },
-    {
-      "heroId": "110",
-      "heroName": "Floryn",
-      "heroRole": "Support",
-      "heroImage": "assets/images/Floryn.png"
-    },
-    {
-      "heroId": "111",
-      "heroName": "Valentina",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Valentina.png"
-    },
-    {
-      "heroId": "112",
-      "heroName": "Edith",
-      "heroRole": "Tank, Marksman",
-      "heroImage": "assets/images/Edith.png"
-    },
+      "id": 28,
+      "name": "Clear Soup",
+      "price": "9000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/d2039-clear-soup.jpg"
+    }
+  ],
+  "Dessert": [
     {
-      "heroId": "113",
-      "heroName": "Yin",
-      "heroRole": "Fighter, Assassin",
-      "heroImage": "assets/images/Yin.png"
-    },
-    {
-      "heroId": "114",
-      "heroName": "Melissa",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Melissa.png"
-    },
-    {
-      "heroId": "115",
-      "heroName": "Xavier",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Xavier.png"
-    },
-    {
-      "heroId": "116",
-      "heroName": "Julian",
-      "heroRole": "Fighter, Mage",
-      "heroImage": "assets/images/Julian.png"
-    },
-    {
-      "heroId": "117",
-      "heroName": "Fredrinn",
-      "heroRole": "Fighter, Tank",
-      "heroImage": "assets/images/Fredrinn.png"
-    },
+      "id": 1,
+      "name": "Clear Soup",
+      "price": "9000",
+      "image": "https://www.hokben.co.id/assets/uploads/menu/d2039-clear-soup.jpg"
+    }
+  ],
+  "User": [
     {
-      "heroId": "118",
-      "heroName": "Joy",
-      "heroRole": "Assassin",
-      "heroImage": "assets/images/Joy.png"
+      "id": 1,
+      "username": "nandiahmad1@gmail.com",
+      "password": "password"
     },
     {
-      "heroId": "119",
-      "heroName": "Arlott",
-      "heroRole": "Fighter, Assassin",
-      "heroImage": "assets/images/Arlott.png"
+      "id": 2,
+      "username": "nandiahmad2@gmail.com",
+      "password": "password"
     },
     {
-      "heroId": "120",
-      "heroName": "Novaria",
-      "heroRole": "Mage",
-      "heroImage": "assets/images/Novaria.png"
+      "id": 3,
+      "username": "nandiahmad3@gmail.com",
+      "password": "password"
     },
     {
-      "heroId": "121",
-      "heroName": "Ixia",
-      "heroRole": "Marksman",
-      "heroImage": "assets/images/Ixia.png"
-    },
-    {
-      "heroId": "122",
-      "heroName": "Nolan",
-      "heroRole": "Assassin",
-      "heroImage": "assets/images/Nolan.png"
-    },
+      "id": 4,
+      "username": "nandiahmad4@gmail.com",
+      "password": "password"
+    }
   ]
 }
